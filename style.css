@@ -1,0 +1,20 @@
+body{
+    background-image:url(https://cdn.pixabay.com/photo/2019/05/28/19/43/leaves-4235968_1280.jpg);
+    text-align: center;
+    margin: auto;  
+}
+#guessinput{
+    height: 30px;
+    width: 300px;
+    border: 3px solid black;
+}
+#btn{
+    height: 30px;
+    width: 100px;
+    border: 2px solid black;
+}
+#hr{
+    color: black;
+}
+
+
